@@ -19,7 +19,7 @@ hauteur = 400
 
 # Initialisation de la fenêtre
 fenetre = pygame.display.set_mode((largeur, hauteur))
-pygame.display.set_caption('Jeu Snake')
+pygame.display.set_caption('Looking snake game')
 
 # Vitesse
 horloge = pygame.time.Clock()
